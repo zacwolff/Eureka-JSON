@@ -1,0 +1,6 @@
+framework module Pods_Eureka_JSON {
+  umbrella header "Pods-Eureka JSON-umbrella.h"
+
+  export *
+  module * { export * }
+}
